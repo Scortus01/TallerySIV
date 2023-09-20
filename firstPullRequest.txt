@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Primer pull request
 Pull Request Santiago Velez
+=======
+Primer pull request to master
+-Braian Stiven Peña Morales
+>>>>>>> 846ecf5eee5c12e1fc549fc98d88d7b15125a51a
